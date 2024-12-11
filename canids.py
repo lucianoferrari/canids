@@ -6,7 +6,7 @@ def print_banner():
     """
     Prints the banner for the program.
     """
-    banner = """
+    banner = r"""
      _            __ _____           
     | |          / _/ ____|          
     | |    _   _| || (___   ___  ___ 
