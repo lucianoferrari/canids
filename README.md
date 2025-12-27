@@ -1,2 +1,1 @@
-# canids
-A very basic IDS for CAN Bus for educational purposes and proof of concept.
+CAN Bus intrusion detection proof-of-concept focused on message anomaly detection for automotive security research.
