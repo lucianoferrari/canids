@@ -9,3 +9,7 @@ CANIDS is a proof-of-concept **CAN Bus Intrusion Detection System (IDS)** built 
 
 ## Intended use
 Educational and research use for automotive security testing and training.
+
+## Context
+
+This project was developed as part of automotive security research and training initiatives.
